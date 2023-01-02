@@ -10,3 +10,4 @@ if(age>=18):#person is eligible to cote if age is greater than 18
     print("Eligible to vote")
 else:
     print("Uneligible to vote")
+print("Name-Aryaman Kumar,registration no-22BRS1184")
