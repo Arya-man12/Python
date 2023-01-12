@@ -21,7 +21,6 @@ def student(name,id1):
 def total(n1):
     global sum1
     sum1+=n1
-    print(sum1)
     return sum1
 def avg(sum2):
     avg=sum2//5

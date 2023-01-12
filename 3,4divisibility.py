@@ -13,3 +13,4 @@ while(n<100):
     elif(n%4==0):
         print(n)
     n=n+1
+print("Name-Aryaman Kumar,registration no-22BRS1184")

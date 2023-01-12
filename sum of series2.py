@@ -10,4 +10,5 @@ N=int(input("Enter the last term of the series"))
 sum=0
 for i in range(1,N+1):
     sum=sum+i/(i*i)
-print(sum)
+print("Sum",sum)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

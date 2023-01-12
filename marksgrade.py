@@ -17,3 +17,4 @@ elif(marks>=35 and marks<50):
     print("D")
 else:
     print("E")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

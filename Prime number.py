@@ -17,4 +17,4 @@ for i in range(2,n):
         q=True
 if(q==True):
     print("Number is a prime number")
-        
+print("Name-Aryaman Kumar,registration no-22BRS1184")

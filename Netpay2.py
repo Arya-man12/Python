@@ -14,5 +14,5 @@ PF=PF=10/100*BP
 Dd=insurance+PF
 GP=BP+DA+HRA+CCA
 Net=GP-Dd
-print(Net)
+print("Net pay",Net)
 print("Name-Aryaman Kumar,registration no-22BRS1184")

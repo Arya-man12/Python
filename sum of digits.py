@@ -13,3 +13,4 @@ while(n>0):
    sum=sum+rem
    n=n//10
 print("Sum of digits",sum)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

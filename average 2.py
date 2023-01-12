@@ -21,3 +21,4 @@ while(inp=='true'):
         inp='false'
 print("Average",avg)
 print("Product",prod)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

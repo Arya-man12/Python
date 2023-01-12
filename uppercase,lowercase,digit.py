@@ -12,3 +12,4 @@ elif(a.isupper()==True):
     print("Character is Uppercase")
 elif(a.isdigit()==True):
     print("Character is a digit")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

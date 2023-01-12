@@ -8,7 +8,7 @@ Created on Sat Dec 31 13:07:20 2022
 str1=input("Enter string")
 str2=input("Enter substring")
 def check(s1,s2):
-    b=str1.count(str2,0,len(str1)-1)
+    b=str1.count(str2,0,len(str1))
     return b
 def check2(s1,s2):
     b=str1.find(str2)

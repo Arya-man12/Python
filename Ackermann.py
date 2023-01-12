@@ -12,8 +12,8 @@ def A(m,n):
         return A(m-1,1)
     if(m>0 and n>0):
         return A(m-1,A(m,n-1))
-m=int(input())
-n=int(input())
+m=int(input("Enter m value"))
+n=int(input("Enter n value"))
 c=A(m,n)
 print(c)
 print("Name-Aryaman Kumar,registration no-22BRS1184")

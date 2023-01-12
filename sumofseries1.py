@@ -10,3 +10,4 @@ sum=0
 for i in range(1,N+1):
     sum=sum+1/i
 print("Sum is",sum)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

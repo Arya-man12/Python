@@ -21,3 +21,4 @@ for i in range(100,401):
         n=n//10
     if(q==True):
         print(i,end=',')
+print("Name-Aryaman Kumar,registration no-22BRS1184")

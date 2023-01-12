@@ -7,8 +7,8 @@ while(a>0):
     dig=a%10
     a=a//10
     sum=sum*10+dig
-
 if (temp==sum):
      print("Palindrome number")
 else:
      print("Not a palindrome number")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

@@ -18,3 +18,4 @@ if(sum==temp):#If original number equals sum of cubes of its digit it is armstro
     print("It is a armstrong number")
 else:
     print("It is not armstrong number")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

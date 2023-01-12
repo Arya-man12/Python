@@ -6,4 +6,6 @@ Created on Sat Nov 12 13:05:19 2022
 """
 #Program to reverse a string
 newstring=input("Enter the string")
-print(newstring[::-1])
+string2=newstring[::-1]
+print(string2)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

@@ -12,5 +12,5 @@ def sod(n1):
     return(n1%10+sod(n1//10))
 num=int(input("Enter number"))
 sum1=sod(num)
-print(sum1)
+print("Sum",sum1)
 print("Name-Aryaman Kumar,registration no-22BRS1184")

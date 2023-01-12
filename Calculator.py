@@ -21,3 +21,4 @@ if(ch==3):
 if(ch==4):
     c=a/b
     print("Result",c)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

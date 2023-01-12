@@ -12,9 +12,16 @@ if(c>a and c>b):
     if(c^2==a^2+b^2):#We apply pythagoras theorem to see if the square of the largest side
       #is equal to the sum of squares of the other two sides
         print("Right angle triangle")
+    else:
+        print("Not right angle triangle")
 if(b>a and b>c):
     if(b^2==a^2+c^2):
         print("Right angle triangle")
+    else:   
+        print("Not right angle triangle")
 if(a>b and a>c):
     if(a^2==b^2+c^2):
         print("Right angle triangle")
+    else:
+        print("Not right angle triangle")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

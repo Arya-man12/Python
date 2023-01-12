@@ -14,4 +14,5 @@ while(count<i):
     #number is multiplied by itself for the number of times 
     expo =expo*n    #specified by the user
     count=count+1
-print(expo)
+print("ans",expo)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

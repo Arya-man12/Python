@@ -10,3 +10,4 @@ for i in range(0,6):
         continue
     else:
         print(i)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

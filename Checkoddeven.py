@@ -26,6 +26,6 @@ for i in range(len(list1)):
         sum1+=list1[i]
  else:
         sum2+=list1[i]
-print(sum1)
-print(sum2)
+print("Even number sum",sum1)
+print("Odd number sum",sum2)
 print("Name-Aryaman Kumar,registration no-22BRS1184")
