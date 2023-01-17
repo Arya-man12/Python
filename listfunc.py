@@ -17,7 +17,7 @@ s3=input("Enter name which you want to enter instead")
 list1[list1.index(s2)]=s3
 print(list1)
 list1.sort()
-print(list1)
+print("After sorting",list1)
 s4=input("Enter name which you wish to insert")
 a=int(input("Enter position at which name is to be inserted"))
 list1.insert(a,s4)

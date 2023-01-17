@@ -7,3 +7,4 @@ for a in word:
         uc=uc+1
 print("Number of uppercase letters are",uc)
 print("number of lowercase letters are" ,lc)
+print("Name-Aryaman Kumar,registration no-22BRS1184")

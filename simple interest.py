@@ -9,5 +9,4 @@ P=int(input("enter the principal"))
 r=int(input("enter the rate"))
 t=int(input("enter time period"))
 SI=P*r*t//100
-print(SI)
-print("Name-Aryaman Kumar,registration no-22BRS1184")
+print("Simple interest",SI)

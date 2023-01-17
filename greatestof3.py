@@ -14,3 +14,4 @@ elif(n2>n1 and n2>n3):
     print(n2,"n2 is greatest")
 else:
     print(n3,"n3 is greatest")
+print("Name-Aryaman Kumar,registration no-22BRS1184")

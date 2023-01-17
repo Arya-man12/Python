@@ -16,4 +16,8 @@ a=input()
 n1=int(input())
 c=rotate_word(a,n1)
 print(c)
+if c[0] in ('a','e','i','o','u','A','E','I','O','U') and c[len(c)-1] in('a','e','i','o','u','A','E','I','O','U'):
+    print("Happy cool string") #To check if first and last letter are vowels
+else:
+    print("Happy hot string")
 print("Name-Aryaman Kumar,registration no-22BRS1184")
